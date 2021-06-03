@@ -6,7 +6,7 @@ Jul 03, 2021
 
 ## Introduction
 
-This is Capstone Project repository of Data Science Specialization series of courses held Johns Hopkins University through Coursera.
+This is Capstone Project repository of Data Science Specialization series of courses organized by Johns Hopkins University through Coursera.
 
 ### Course Dataset
 
