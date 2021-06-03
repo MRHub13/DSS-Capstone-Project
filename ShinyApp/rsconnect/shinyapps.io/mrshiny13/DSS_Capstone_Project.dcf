@@ -1,0 +1,14 @@
+name: DSS_Capstone_Project
+title: DSS_Capstone_Project
+username:
+account: mrshiny13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4213086
+bundleId: 4672595
+url: https://mrshiny13.shinyapps.io/DSS_Capstone_Project/
+when: 1622717319.03274
+lastSyncTime: 1622717319.03274
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/en_US.sample.txt|data/final/en_US/en_US.blogs.txt|data/final/en_US/en_US.news.txt|data/final/en_US/en_US.twitter.txt|data/full-list-of-bad-words_text-file_2021_01_18.txt|ngram_match_20210602_0940
